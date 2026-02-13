@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=9146FF&size=30&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo+ao+meu+Repositório+:%29;Welcome+to+my+repository+:%29" alt="Typing SVG" />
 </p>
 
- ###
+<div></div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/Pedro-Diniz-swe/Pedro-Diniz-swe/output/snake.svg" alt="Snake animation" />
+</div>
 
 <div>
   <a href="https://www.instagram.com/henridz_?igsh=MW9xczllZjJqZXAxeQ%3D%3D&utm_source=qr" target="_blank">
